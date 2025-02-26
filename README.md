@@ -1,1 +1,1 @@
-My Python Projects, that I created while leraning
+My Python Projects, that I created while learning!
